@@ -17,7 +17,7 @@ sections:
     layout_style: tiles
     title: Recent Work
     subtitle: An optional subtitle of the section
-    projects_number: 0
+    projects_number: 3
     view_all_label: View All
     view_all_url: portfolio
 seo:
