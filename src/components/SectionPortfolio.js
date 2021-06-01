@@ -19,7 +19,6 @@ export default class SectionPortfolio extends React.Component {
                                 <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
                             </div>
                         )}
-                        <span className="view-all-button">{viewAllLabel}</span>
                     </Link>
                 </article>
             );
