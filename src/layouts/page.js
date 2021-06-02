@@ -20,7 +20,7 @@ export default class Page extends React.Component {
                 <div className="inner outer">
                     <article className="post post-full">
                         <header className="post-header inner-sm">
-                            <h3 className="post-title line-top">{title}</h4>
+                            <h3 className="post-title line-top">{title}</h3>
                             {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
                         </header>
                         {image && (
