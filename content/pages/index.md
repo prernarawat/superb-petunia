@@ -17,14 +17,6 @@ sections:
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    layout_style: tiles
-    projects_number: 6
-    view_all_label: lorem-ipsum
-    view_all_url: '#'
-    type: section_portfolio
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
